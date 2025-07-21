@@ -1,0 +1,16 @@
+PS C:\Users\Sinin\Desktop\2025Summer_MSCS-532-B01_Algorithms and Data Structures\MSCS532_Assignment6> cd Part2_DataStructures
+PS C:\Users\Sinin\Desktop\2025Summer_MSCS-532-B01_Algorithms and Data Structures\MSCS532_Assignment6> cd PartPS C:\Users\Sinin\Desktop\2025Summer_MSCS-532-B01_Algorithms and Data Structures\MSCS532_Assignment6> cd Part2_DataStructures
+PS C:\Users\Sinin\Desktop\2025Summer_MSCS-532-B01_Algorithms and Data Structures\MSCS532_Assignment6\Part2_DataStructures> python datastructures_demo.py
+=== Data Structures Demo & Micro‑Benchmarks ===
+
+DynamicArray  insert: 0.0000024s  access: 0.0000004s  delete: 0.0000012s
+ArrayStack    push  : 0.0000005s  pop  : 0.0000009s
+ArrayQueue    enque : 0.0000005s  deque: 0.0000013s
+
+Structure states after small scripted operations:
+DynamicArray → DynamicArray([0, 2, 3, 4])
+Stack        → Stack(top→bottom): ['D', 'C', 'B', 'A'] (popped E )
+Queue        → Queue(front→back): ['B', 'C', 'D', 'E'] (dequeued A )
+LinkedList   → LinkedList:[5 → 10 → 30]
+Tree preorder→ ['root', 'child1', 'leaf', 'child2']
+PS C:\Users\Sinin\Desktop\2025Summer_MSCS-532-B01_Algorithms and Data Structures\MSCS532_Assignment6\Part2_DataStructures>

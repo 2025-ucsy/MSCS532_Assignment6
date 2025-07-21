@@ -1,0 +1,22 @@
+in\Desktop\2025Summer_MSCS-532-B01_Algorithms and Data Structures\MSCS532_Assignment6> cd Part1_SelectionAlgorithms
+PS C:\Users\Sinin\Desktop\2025Summer_MSCS-532-B01_Algorithms and Data Structures\MSCS532_Assignment6\Part1_SelectionAlgorithms> python selection_analysis.py
+Empirical Timing Benchmark
+
+=== Random arrays ===
+n=  1000:  Det  0.0006s │ Rand  0.0004s │ Merge 0.0001s
+n=  5000:  Det  0.0051s │ Rand  0.0016s │ Merge 0.0005s
+n= 10000:  Det  0.0120s │ Rand  0.0062s │ Merge 0.0012s
+
+=== Sorted arrays ===
+n=  1000:  Det  0.0011s │ Rand  0.0009s │ Merge 0.0000s
+n=  5000:  Det  0.0056s │ Rand  0.0018s │ Merge 0.0000s
+n= 10000:  Det  0.0112s │ Rand  0.0095s │ Merge 0.0001s
+
+=== Reverse‑sorted arrays ===
+n=  1000:  Det  0.0011s │ Rand  0.0004s │ Merge 0.0000s
+n=  5000:  Det  0.0063s │ Rand  0.0051s │ Merge 0.0000s
+n= 10000:  Det  0.0112s │ Rand  0.0060s │ Merge 0.0001s
+
+
+Created output_selection.txt
+PS C:\Users\Sinin\Desktop\2025Summer_MSCS-532-B01_Algorithms and Data Structures\MSCS532_Assignment6\Part1_SelectionAlgorithms>
