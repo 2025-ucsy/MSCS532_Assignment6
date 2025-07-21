@@ -52,3 +52,12 @@ python selection_analysis.py          # prints timing table
 cd ../Part2_DataStructures
 python datastructures_demo.py         # prints micro‑benchmarks + small demo
 # output is additionally stored in part2_output result.txt
+``` 
+
+## Part 1 output results
+<img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/b37e775e-61ed-45ba-9fbf-d2202f7ada1c" />
+
+## Part 2 output results
+<img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/2c06a26f-8a59-407b-b1de-ba460a437691" />
+
+
